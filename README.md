@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Bharath
 
-<!--
-**lekkalabharathkumarreddy/lekkalabharathkumarreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+I'm a B.Tech graduate passionate about Cloud Computing, DevOps and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- ☁️ AWS
+- ☁️ Microsoft Azure
+- 🐧 Linux
+- 🐳 Docker
+- 🔧 Git & GitHub
+- 🔄 CI/CD
+- 🏗️ Terraform
+- ⚙️ Kubernetes
+
+### 📂 Projects
+* 3-Tier Application project using Mobaxterm 
+* Azure Backup & Disaster Recovery – Virtual Machine Backup, Recovery & Business Continuity
+* CI/CD Pipeline using GitHub Actions – Automated Build, Testing & Continuous Deployment
+* Azure Load Balancer – Traffic Distribution, High Availability & Application Load Management
+* Azure Windows Image Creation Using Packer
+
+### 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/bharath-kumar-reddy-lekkala-653b5040b
+
